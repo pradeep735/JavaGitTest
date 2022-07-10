@@ -9,6 +9,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @EnableEurekaClient
 public class UserRegistrationApplication {
 //this is from portal 11
+	//this is second test
 	public static void main(String[] args) {
 		SpringApplication.run(UserRegistrationApplication.class, args);
 	}
